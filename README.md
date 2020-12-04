@@ -3,6 +3,7 @@
 ##Read me for Homework 2
 
 deployed project version link: https://calmanning.github.io/homework-2-code-refactor-csm/.
+github repository link: https://github.com/Calmanning/homework-2-code-refactor-csm
 
 ###Version Differnces
 The scope of this project was to implement updates to the Horiseon marketing website. 
